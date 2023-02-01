@@ -1,5 +1,5 @@
 # Analysis-on-Used-Cars
-I do Deep and EDA analysis on  Used Cars data set and discuss all the important things . 
+I do Deep EDA analysis on  Used Cars data set and discuss all the important things . 
 ## Abstract
  
 Cars Absolute, an American company buys and sells second hand cars.
