@@ -21,7 +21,7 @@ Data from: (https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Proj
 
 Analysis was done in notebooks.
 
- [Data Analysis](https://github.com/Notorious0/Analysis-on-Used-Cars/blob/main/Analysis%20on%20Used%20Cars.ipynb)
+ [Data Analysis](https://github.com/imhsv/Analysis-on-Used-Cars/blob/main/Analysis%20on%20Used%20Cars%20.ipynb)
 
 
 ## Software
