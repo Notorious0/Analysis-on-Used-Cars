@@ -19,11 +19,11 @@ Data from: (https://raw.githubusercontent.com/insaid2018/Term-1/master/Data/Proj
 
 ## Overview
 
-Analysis was done in notebooks.
+All Analysis are done in notebooks.
 
  [Data Analysis](https://github.com/imhsv/Analysis-on-Used-Cars/blob/main/Analysis%20on%20Used%20Cars%20.ipynb)
 
 
 ## Software
 
-All the analysis was done using python 3.6 and the usefull libraries .
+All the analysis are done by using python 3.6 and others usefull libraries .
